@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  📖***Full Stack | Autônomo | Java | Python | HTML | C# | .NET | API Rest | Soft Skills***
+📖Full Stack | Autônomo | Java | Python | HTML | C# | .NET | API Rest | Soft Skills
 </p>
 
 <p align="left">
-  💼 **Git | VSCode | Azure | AWS | SQL | MongoDB | IA | Agile **
+💼 Git | VSCode | Azure | AWS | SQL | MongoDB | IA | Agile
 </p>
 
 <p align="left">
