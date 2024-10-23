@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Oi, me chamo Juan, sou estudante de programação e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+Faço Análise e Desenvolvimento de Sistemas pela Faculdade Francisco de Assis; Especialização pela Digital Innovation One.
 </p>
 
 <p align="left">
